@@ -1,0 +1,21 @@
+<h3>11/septiembre/2001</h3>
+
+<style>
+body {
+background-color: #66DE16;
+}
+</style>
+
+<h1>alerta de ultima hora, perros voladores estrellan las torres gemelas de nueva york estados unidos</h1>
+<style>
+h1{
+color: #189;
+font-size:50px;
+background-color:white;
+</style>
+
+<h3>las torres gemelas estan sufriendo atentados de perros voladores
+
+<h3> Nueva York se convirtió en el epicentro del fenómeno de los perros voladores debido a las corrientes de aire únicas que se generan entre sus rascacielos. Manhattan dejó de ser la ciudad de los taxis amarillos para ser la ciudad de las "estelas de pelo".
+El Empire State y el One World Trade Center instalaron faros de olor a tocino para guiar a las patrullas caninas durante las noches de niebla. Central Park se transformó en un cañón de lanzamiento: los perros subían a las copas de los árboles más altos y se lanzaban en picada para ganar velocidad, sobrevolando la Quinta Avenida a la altura de los segundos pisos de las tiendas.
+Los neoyorquinos instalaron redes de seguridad sobre las calles para evitar que algún cachorro inexperto cayera sobre los peatones. El momento más esperado del día era el "Atardecer Canino", donde miles de perros de todos los distritos —desde los Bulldogs de Brooklyn hasta los Poodles del Upper East Side— se reunían sobre el puente de Brooklyn, suspendidos en el aire, simplemente disfrutando de la vista de la estatua de la Libertad mientras sus orejas ondeaban al ritmo del viento del Atlántico.</h3
